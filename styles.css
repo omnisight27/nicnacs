@@ -119,13 +119,6 @@ section.tight { padding: 1.75rem 0; }
   padding: 2.5rem 0 3rem;
   background: linear-gradient(var(--cream), var(--cream-deep));
 }
-.hero .sunset {
-  width: 100%;
-  max-height: 220px;
-  object-fit: cover;
-  border-radius: 0 0 1rem 1rem;
-  margin-bottom: 2rem;
-}
 .hero .emblem {
   width: min(280px, 65vw);
   border-radius: 50%;
@@ -257,5 +250,4 @@ section.tight { padding: 1.75rem 0; }
   .header-inner { flex-direction: column; align-items: flex-start; }
   .main-nav ul { gap: 1rem; flex-wrap: wrap; }
   section { padding: 2.2rem 0; }
-  .hero .sunset { max-height: 140px; }
 }
