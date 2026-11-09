@@ -16,5 +16,6 @@ Steiger Street, Grants Pass, OR 97526; no opening date, hours, or prices are
 stated, and the 501(c)(3) application is described accurately as filed with the
 IRS in October 2026 and pending.
 
-Note: the copy of this README inside the GitHub repo still carries the
-pre-publish "DRAFT v1" wording — refresh it with the next site update.
+Update 2026-11-08: favicon + Open Graph tags added to all three pages
+(emblem as favicon and share image), so shared links show the NicNacs emblem
+and mission instead of a bare link.
